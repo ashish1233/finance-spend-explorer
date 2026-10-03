@@ -1,0 +1,6 @@
+{
+  "status": "ok",
+  "tenant_id": "finance",
+  "tier": "standard",
+  "sdk_version": "0.1.0"
+}
